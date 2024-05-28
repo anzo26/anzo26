@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, my name is Anže Golob, a passionate 3rd-year computer science student from Slovenia. 🇸🇮
+Hi, my name is Anže Golob, a passionate 3rd-year computer science student from Slovenia.
 
 I am currently studying at FERI (Faculty of Electrical Engineering and Computer Science) in Maribor. 🎓
 
