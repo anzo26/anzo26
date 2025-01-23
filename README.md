@@ -5,7 +5,7 @@ I recently completed my studies at FERI (Faculty of Electrical Engineering and C
 
 I strive to become a well-rounded and proficient programmer through my studies and practical experience. 💻
 
-As of October 2024, I started working at Pošta Slovenije, where I am currently developing a mobile application in Android Studio and REST APIs in C# .NET. 🚀
+As of October 2024, I started working at Pošta Slovenije d.o.o., where I am currently developing a mobile application in Android Studio and REST APIs in C# .NET. 🚀
 
 I am constantly seeking opportunities for growth and innovation.
 
