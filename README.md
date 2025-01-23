@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi, my name is Anže Golob, a passionate computer science graduate from Slovenia.
 
-I recently completed my studies at FERI (Faculty of Electrical Engineering and Computer Science) in Maribor. 🎓
+I have recently completed my studies at FERI (Faculty of Electrical Engineering and Computer Science) in Maribor. 🎓
 
 I strive to become a well-rounded and proficient programmer through my studies and practical experience. 💻
 
